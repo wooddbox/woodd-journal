@@ -1,2 +1,2 @@
--www-woodd_journal
+-woodd-journal
 ==================
